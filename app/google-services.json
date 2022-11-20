@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1040199961807",
+    "project_id": "pvpsit-contact-app",
+    "storage_bucket": "pvpsit-contact-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040199961807:android:7bebacd53f3a7c3d5cfbba",
+        "android_client_info": {
+          "package_name": "com.pvpsit.webinar.sqliteexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040199961807-a3uurh9bfaukalo63hpe3iibgq53kbd7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDcIvAbfP8N8-f7fKM-GRf5aIkPrzNvm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040199961807-a3uurh9bfaukalo63hpe3iibgq53kbd7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
